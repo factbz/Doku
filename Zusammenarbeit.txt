@@ -1,0 +1,3 @@
+Wir haben mit GitHub gearbeitet, was für uns sehr viele Vorteile hatte. Vorallem das Mergen war sehr Hilfreich. Wir haben die Arbeit an der App wie folgt Aufgeteilt (via GitHub kann jede Zeile einer Person zugeordnet werden):
+	-	Nicolas Meier: Design (Storyboard, Views), Programmieren (Alle Adapter, Alle Filter, Alle Models, Semester Dialog und der Haupteil der Activities)
+	-	Pascal Affentranger: Use Case, Erd, Datenbank, Programieren (Datenbankanbindung, Subject & Grade Dialog und ein Teil der Activities)

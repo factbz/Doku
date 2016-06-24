@@ -1,0 +1,3 @@
+Wir konnten alle Grundanforderungen erfüllen, leider konnten wir nicht alle Zusatzanforderungen umsetzen. Bei der Entwicklung gab es keine grosse Probleme. Wir haben während dem Programieren viel neues gelernt. Die App ist in einem Fertigen zustand, sodass wir sie im Play Store veröffentlichen könnten.
+
+Projekt auf GitHub: https://github.com/factbz/Notenverwaltung
