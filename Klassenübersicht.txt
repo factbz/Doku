@@ -1,0 +1,23 @@
+Da wir sehr viele Klassen haben, haben wir sie in folgende Ordner aufgeteilt
+    -   Adapter: Alle Klassen die Daten formatieren
+    -   Data: Klassen die Daten speichern
+    -   Dialog: Alle DialogFragment Klassen
+    -   Filter: Alle Input Filter
+    -   Model: Alle Model
+    -   Activity: Alle Activity (Controller) Klassen
+
+Klassenbeschreibung:
+    -   GradeAdapter: Stellt eine Note dar. Formatiert das Datum und die Note.
+    -   SemesterAdapter: Stellt ein Semester dar.
+    -   SubjectAdapter: Stellt ein Fach dar. Berechnet den Durchschnitt aller Noten.
+    -   DBAdapter:  Erstellt die Datenbank und führt Sql aus
+    -   AddGradeDialogFragment: Erstellt einen AlertDialog. Beim Klick auf das Datumsfeld kommt ein Datepicker. Die Note kann nur einen Wert zwischen 1 und 6 haben (Siehe -> InputFilterMinMax).
+    -   AddSemesterDialogFragment:  Erstellt einen AlertDialog. Es wird keine spezielle Überprüfung ausgeführt.
+    -   AddSubjectDialogFragment:  Erstellt einen AlertDialog. Es wird keine spezielle Überprüfung ausgeführt.
+    -   InputFilterMinMax: Filter der Zwei Floats, Min, Max, als Input hat. Überprüft den Input auf seine gültigkeit.
+    -   Grade: Model für Note mit Datum, Note und Id.
+    -   Semester: Model für Semester mit Name und Id.
+    -   Subject: Model für Subject mit Name und Id.
+    -   GradeActivity: Controller für Noten Anzeige implementiert alle Gui funktionen.
+    -   SemesterActivity: Controller für Semester Anzeige implementiert alle Gui funktionen.
+    -   SubjectActivity: Controller für Fächer Anzeige implementiert alle Gui funktionen.
