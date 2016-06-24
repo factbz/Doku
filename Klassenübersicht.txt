@@ -1,4 +1,4 @@
-Da wir sehr viele Klassen haben, haben wir sie in folgende Ordner aufgeteilt
+﻿Da wir sehr viele Klassen haben, haben wir sie in folgende Ordner aufgeteilt
     -   Adapter: Alle Klassen die Daten formatieren
     -   Data: Klassen die Daten speichern
     -   Dialog: Alle DialogFragment Klassen
